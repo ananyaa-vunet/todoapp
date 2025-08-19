@@ -1,8 +1,72 @@
 [
     {
         "description": "Write APIs for the app",
-        "deadline": "19/08/2025",
+        "deadline": "19-08-2025",
         "priority": "1",
-        "status": "0"
+        "status": "0",
+        "id": 1
+    },
+    {
+        "description": "Design database schema",
+        "deadline": "25-08-2025",
+        "priority": "2",
+        "status": "0",
+        "id": 2
+    },
+    {
+        "description": "Implement user authentication",
+        "deadline": "28-08-2025",
+        "priority": "1",
+        "status": "0",
+        "id": 3
+    },
+    {
+        "description": "Set up CI/CD pipeline",
+        "deadline": "30-08-2025",
+        "priority": "3",
+        "status": "0",
+        "id": 4
+    },
+    {
+        "description": "Prepare project documentation",
+        "deadline": "05-09-2025",
+        "priority": "2",
+        "status": "0",
+        "id": 5
+    },
+    {
+        "description": "Conduct code review session",
+        "deadline": "10-09-2025",
+        "priority": "3",
+        "status": "0",
+        "id": 6
+    },
+    {
+        "description": "Deploy application to staging",
+        "deadline": "15-09-2025",
+        "priority": "1",
+        "status": "0",
+        "id": 7
+    },
+    {
+        "description": "Fix bugs from QA feedback",
+        "deadline": "20-09-2025",
+        "priority": "1",
+        "status": "0",
+        "id": 8
+    },
+    {
+        "description": "Optimize database queries",
+        "deadline": "25-09-2025",
+        "priority": "2",
+        "status": "0",
+        "id": 9
+    },
+    {
+        "description": "Plan next sprint backlog",
+        "deadline": "01-10-2025",
+        "priority": "3",
+        "status": "0",
+        "id": 10
     }
 ]

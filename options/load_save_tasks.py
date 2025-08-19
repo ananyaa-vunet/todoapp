@@ -5,6 +5,9 @@ def load_tasks():
         with open("tasks.json", "r") as infile:
             tasks = json.load(infile)
             return tasks
+    except FileNotFoundError:
+        print("No tasks exist.")
+        return []
     except Exception as e:
         print("An error occurred while loading tasks:", e)
         return []
